@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "note": "The XPI products XPI Orbit shows. Edit this file and every Orbit picks up the change within a day. Only addresses on xpisolutions.com are accepted.",
+  "workspaceCodeHash": "86a6b4c9d4a8d4c13f3b730bba63e7ea5ae80f0793c2b06c9a8c3804a4826ddd",
+  "products": [
+    {
+      "id": "xpi",
+      "name": "XPI Solutions",
+      "mark": "XPI",
+      "url": "https://xpisolutions.com/",
+      "audience": "public",
+      "blurb": "Websites and automation for service businesses."
+    },
+    {
+      "id": "schedule",
+      "name": "XPI Schedule",
+      "mark": "S",
+      "url": "https://schedule.xpisolutions.com/",
+      "audience": "public",
+      "blurb": "Online booking that lets clients schedule themselves."
+    },
+    {
+      "id": "smartcard",
+      "name": "XPI SmartCard",
+      "mark": "SC",
+      "url": "https://tapcard.xpisolutions.com/",
+      "audience": "public",
+      "blurb": "A digital business card people get with one tap."
+    },
+    {
+      "id": "merchant",
+      "name": "XPI Merchant Services",
+      "mark": "$",
+      "url": "https://merchant.xpisolutions.com/",
+      "audience": "public",
+      "blurb": "Card payments for your business."
+    },
+    {
+      "id": "vault",
+      "name": "XPI Vault",
+      "mark": "V",
+      "url": "https://vault.xpisolutions.com/",
+      "audience": "public",
+      "blurb": "Member discounts on everyday spending."
+    },
+    {
+      "id": "formless",
+      "name": "XPI FormLess",
+      "mark": "F",
+      "url": "https://forms.xpisolutions.com/",
+      "audience": "public",
+      "blurb": "Intake forms clients complete as a conversation, signed and filed."
+    },
+    {
+      "id": "command",
+      "name": "Command Center",
+      "mark": "CC",
+      "url": "https://app.xpisolutions.com/",
+      "audience": "workspace",
+      "blurb": "Leads and client accounts."
+    },
+    {
+      "id": "nexus",
+      "name": "XPI Nexus",
+      "mark": "N",
+      "url": "https://nexus.xpisolutions.com/",
+      "audience": "workspace",
+      "blurb": "The master CRM."
+    },
+    {
+      "id": "dispatch",
+      "name": "Dispatch",
+      "mark": "D",
+      "url": "https://dispatch.xpisolutions.com/",
+      "audience": "workspace",
+      "blurb": "Service dispatch intelligence."
+    },
+    {
+      "id": "proof",
+      "name": "XPI Proof",
+      "mark": "P",
+      "url": "https://proof.xpisolutions.com/",
+      "audience": "workspace",
+      "blurb": "Proof-of-service records."
+    }
+  ]
+}
