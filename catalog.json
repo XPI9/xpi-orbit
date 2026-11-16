@@ -9,7 +9,8 @@
       "mark": "XPI",
       "url": "https://xpisolutions.com/",
       "audience": "public",
-      "blurb": "Websites and automation for service businesses."
+      "blurb": "Websites and automation for service businesses.",
+      "logo": "https://orbit.xpisolutions.com/icons/xpi.png"
     },
     {
       "id": "schedule",
@@ -17,7 +18,8 @@
       "mark": "S",
       "url": "https://schedule.xpisolutions.com/",
       "audience": "public",
-      "blurb": "Online booking that lets clients schedule themselves."
+      "blurb": "Online booking that lets clients schedule themselves.",
+      "logo": "https://orbit.xpisolutions.com/icons/schedule.png"
     },
     {
       "id": "smartcard",
@@ -25,7 +27,8 @@
       "mark": "SC",
       "url": "https://tapcard.xpisolutions.com/",
       "audience": "public",
-      "blurb": "A digital business card people get with one tap."
+      "blurb": "A digital business card people get with one tap.",
+      "logo": "https://orbit.xpisolutions.com/icons/smartcard.png"
     },
     {
       "id": "merchant",
@@ -41,7 +44,8 @@
       "mark": "V",
       "url": "https://vault.xpisolutions.com/",
       "audience": "public",
-      "blurb": "Member discounts on everyday spending."
+      "blurb": "Member discounts on everyday spending.",
+      "logo": "https://orbit.xpisolutions.com/icons/vault.png"
     },
     {
       "id": "formless",
@@ -65,7 +69,8 @@
       "mark": "N",
       "url": "https://nexus.xpisolutions.com/",
       "audience": "workspace",
-      "blurb": "The master CRM."
+      "blurb": "The master CRM.",
+      "logo": "https://orbit.xpisolutions.com/icons/nexus.png"
     },
     {
       "id": "dispatch",
@@ -73,7 +78,8 @@
       "mark": "D",
       "url": "https://dispatch.xpisolutions.com/",
       "audience": "workspace",
-      "blurb": "Service dispatch intelligence."
+      "blurb": "Service dispatch intelligence.",
+      "logo": "https://orbit.xpisolutions.com/icons/dispatch.png"
     },
     {
       "id": "proof",
@@ -81,7 +87,8 @@
       "mark": "P",
       "url": "https://proof.xpisolutions.com/",
       "audience": "workspace",
-      "blurb": "Proof-of-service records."
+      "blurb": "Proof-of-service records.",
+      "logo": "https://orbit.xpisolutions.com/icons/proof.png"
     }
   ]
 }
